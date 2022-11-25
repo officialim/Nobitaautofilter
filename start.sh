@@ -8,5 +8,5 @@ else
 fi
 cd /Lucifer
 pip3 install -U -r requirements.txt
-echo "Starting Lucifer...."
+echo "Starting Bot...."
 python3 bot.py
