@@ -11,7 +11,7 @@ from info import ADMINS
 
 BUTTONS = InlineKeyboardMarkup( 
            [[ 
-               InlineKeyboardButton(text="⚠️ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ", url=f"https://t.me/kd_botz") 
+               InlineKeyboardButton(text="⚠️ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ", url=f"https://t.me/Imdb_updates") 
            ]] 
           )
 
