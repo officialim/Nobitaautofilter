@@ -196,7 +196,7 @@ Pʟᴇᴀsᴇ Cʜᴇᴄᴋ Yᴏᴜʀ Sᴘᴇʟʟɪɴɢ 🤧</b>
     
 • ꜰᴜʟʟ ɴᴀᴍᴇ : ☠ Ayush ☠『🇮🇳』
 • ᴜꜱᴇʀɴᴀᴍᴇ : @technicalaks123
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/x_kunal_01'>𝖪ᴜɴᴀʟ ࿐</a></b>
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/technicalaks123'>Ayush ࿐</a></b>
 """
 
     AKS_IMDB = """
