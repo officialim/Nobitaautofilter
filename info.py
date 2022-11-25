@@ -41,15 +41,15 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "EvaMaria")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Channel Button Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/kdbotz_support')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/kd_botz')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'kdbotz_Support')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/Imdb_updates')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Imdb_updates')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/Aks_support01_bot')
 MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us')
 
 # Custom Chats
 SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', 0))
 FILE_CHANNEL = int(environ.get('FILE_CHANNEL', 0))
-FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', 't.me/movieshouse8')
+FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', 't.me/Imdb_updates')
 
 # Log Channels
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 0))
