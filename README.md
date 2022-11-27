@@ -1,10 +1,10 @@
-# LUCIFER
+# Imdb updates
 
 <p align="center">
-  <img src="https://telegra.ph/file/705593c3ae56831c8e565.jpg" alt="LUCIFER Logo">
+  <img src="https://telegra.ph/file/031ac420242d29bc3cf18.jpg" alt="Imdb updates">
 </p>
 <h1 align="center">
-  <b>LUCIFER</b>
+  <b>mario</b>
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=KD_BOTZ+MOVIE+SEARCH+BOT+!;CREATED+BY+KD_BOTZ+TEAM!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
@@ -12,7 +12,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kdbotz/LUCIFER)
 
-#TG Bot [@Filter_Lucifer_Bot](t.me/filter_lucifer_bot)
+#TG Bot [@mario_files_bot](t.me/mario_files_bot)
 
 # Admin Commands
 • /logs - ᴛᴏ ɢᴇᴛ ᴛʜᴇ ʀᴇᴄᴇɴᴛ ᴇʀʀᴏʀꜱ.
