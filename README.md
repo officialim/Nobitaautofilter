@@ -12,7 +12,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kdbotz/LUCIFER)
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/technicalaks/LUCIFER&branch=koyeb&name=urlshortautofilterbot
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/technicalaks/LUCIFER&branch=koyeb&name=urlshortautofilterbot)
 
 #TG Bot [@mario_files_bot](t.me/mario_files_bot)
 
