@@ -561,7 +561,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ],[
             InlineKeyboardButton('Rᴇᴘᴏʀᴛ Bᴜɢs & Fᴇᴇᴅʙᴀᴄᴋ', url=GRP_LNK)
         ],[
-            InlineKeyboardButton('Lᴜᴄɪғᴇʀ Fɪʟᴇs Cʜᴀɴɴᴇʟ', url="https://t.me/Aksbackup")
+            InlineKeyboardButton('Aks Fɪʟᴇs Cʜᴀɴɴᴇʟ', url="https://t.me/Aksbackup")
         ],[
             InlineKeyboardButton('Hᴏᴍᴇ', callback_data='start'),
             InlineKeyboardButton('Cʟᴏsᴇ', callback_data='close_data')
@@ -724,7 +724,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             )
     elif query.data == "kd_cnl":
             cnlbtn = [[
-                      InlineKeyboardButton('Lᴜᴄɪғᴇʀ Bᴏᴛ Lᴏɢs', url="https://t.me/Imdb_updates")
+                      InlineKeyboardButton('Aks Bᴏᴛ Lᴏɢs', url="https://t.me/Imdb_updates")
                      ], [
                       InlineKeyboardButton('Gʀᴏᴜᴘ', url='t.me/Imdb_updates'),
                       InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url='t.me/Aksbackup')
