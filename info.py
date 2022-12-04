@@ -51,7 +51,7 @@ MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us')
 SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', 0))
 FILE_CHANNEL = int(environ.get('FILE_CHANNEL', 0))
 FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', 't.me/Imdb_updates')
-HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', 'https://t.me/How_To_Download_MDisk_Links/10')
+HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', 'https://t.me/how_to_download_channel/11')
 
 # Log Channels
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 0))
