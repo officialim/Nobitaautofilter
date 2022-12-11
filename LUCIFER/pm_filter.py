@@ -1425,3 +1425,12 @@ async def global_filters(client, message, text=False):
                 break
     else:
         return False
+
+@Client.on_message(filters.command(["short"]) & filters.regex(r'https?://[^\s]+'))
+async def reply_shortens(bot, update):
+    link = update.matches[0].group(0),
+    message = await update.reply_text(
+        text=await get_shortlink(link)
+        disable_web_page_preview=True,
+        quote=True
+    )
