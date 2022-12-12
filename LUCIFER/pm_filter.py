@@ -515,15 +515,15 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
     elif query.data == "start":
         buttons = [[
-                    InlineKeyboardButton('☠️ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ☠️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+                    InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ɢʀᴏ', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('😎 Oᴡɴᴇʀ', callback_data="owner_info"),
-                    InlineKeyboardButton('👥️️ Sᴜᴘᴘᴏʀᴛ', callback_data="kd_cnl")
+                    InlineKeyboardButton('ᴏᴡɴᴇʀ', callback_data="owner_info"),
+                    InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', callback_data="kd_cnl")
                 ],[
-                    InlineKeyboardButton('❗ Hᴇʟᴘ', callback_data='help'),
-                    InlineKeyboardButton('🕵️ Aʙᴏᴜᴛ', callback_data='about'),
+                    InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
+                    InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about'),
                 ],[
-                    InlineKeyboardButton('🔒 Cʟᴏsᴇ Mᴇɴᴜ', callback_data='close_data')
+                    InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ ᴏᴜʀ ʏᴛ ᴄʜᴀɴɴᴇʟ', url="https://youtube.com/@noharaadda")
                   ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -536,16 +536,16 @@ async def cb_handler(client: Client, query: CallbackQuery):
     
     elif query.data == "help":
         buttons = [[
-            InlineKeyboardButton('Mᴀɴᴜᴀʟ FIʟᴛᴇʀ', callback_data='manuelfilter'),
-            InlineKeyboardButton('Aᴜᴛᴏ FIʟᴛᴇʀ', callback_data='autofilter')
+            InlineKeyboardButton('ᴍᴀɴᴜᴀʟ ꜰɪʟᴛᴇʀ', callback_data='manuelfilter'),
+            InlineKeyboardButton('ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ', callback_data='autofilter')
         ], [
-            InlineKeyboardButton('Cᴏɴɴᴇᴄᴛɪᴏɴ', callback_data='coct'),
+            InlineKeyboardButton('ᴄᴏɴɴᴇᴄᴛɪᴏɴ', callback_data='coct'),
             InlineKeyboardButton('Fɪʟᴇ Sᴛᴏʀᴇ', callback_data='kd_filstr')
         ], [
-            InlineKeyboardButton('Iᴍᴅʙ', callback_data='kd_imdb'),
-            InlineKeyboardButton('Mɪsᴄ', callback_data='kd_misc')
+            InlineKeyboardButton('ɪᴍᴅʙ', callback_data='kd_imdb'),
+            InlineKeyboardButton('ᴍɪsᴄ', callback_data='kd_misc')
         ], [
-            InlineKeyboardButton('Gᴏ Tᴏ Hᴏᴍᴇ', callback_data='start')
+            InlineKeyboardButton('ɢᴏᴛ ᴛᴏ ʜᴏᴍᴇ', callback_data='start')
         ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -556,15 +556,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('Sᴛᴀᴛᴜs', callback_data='stats'),
-            InlineKeyboardButton('Sᴏᴜʀᴄᴇ', callback_data='source')
+            InlineKeyboardButton('ʀᴇᴘᴏʀᴛ ʙᴜɢs & ꜰᴇᴇᴅʙᴀᴄᴋ', url=GRP_LNK)
         ],[
-            InlineKeyboardButton('Rᴇᴘᴏʀᴛ Bᴜɢs & Fᴇᴇᴅʙᴀᴄᴋ', url=GRP_LNK)
+            InlineKeyboardButton('ʙᴀᴄᴋᴜᴘ ᴄʜᴀɴɴᴇʟ', url="https://t.me/Aksbackup")
         ],[
-            InlineKeyboardButton('Aks Fɪʟᴇs Cʜᴀɴɴᴇʟ', url="https://t.me/Aksbackup")
-        ],[
-            InlineKeyboardButton('Hᴏᴍᴇ', callback_data='start'),
-            InlineKeyboardButton('Cʟᴏsᴇ', callback_data='close_data')
+            InlineKeyboardButton('ʜᴏᴍᴇ', callback_data='start'),
+            InlineKeyboardButton('ᴄʟᴏsᴇ', callback_data='close_data')
         ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -724,13 +721,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             )
     elif query.data == "kd_cnl":
             cnlbtn = [[
-                      InlineKeyboardButton('Aks Bᴏᴛ Lᴏɢs', url="https://t.me/Imdb_updates")
+                      InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='t.me/Aksbackup')
                      ], [
-                      InlineKeyboardButton('Gʀᴏᴜᴘ', url='t.me/Imdb_updates'),
-                      InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url='t.me/Aksbackup')
-                     ], [
-                      InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='t.me/Aks_support01_bot'),
-                      InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='t.me/Imdb_updates')
+                      InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='t.me/Aks_support01_bot'),
+                      InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇs', url='t.me/Imdb_updates')
                      ], [
                       InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start")
                      ]]
