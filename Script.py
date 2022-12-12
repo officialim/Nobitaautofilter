@@ -115,27 +115,17 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 <b><a href=https://t.me/Imdb_updates>~ Maintained by imdb updates</a></b>"""
 
-    ADMIN_STATUS_TXT = """<b>⍟────[ ʙᴏᴛ sᴛᴀᴛᴜ𝗌 ]────⍟</b>
+    ADMIN_STATUS_TXT = """<b>⍟────[ ʙᴏᴛ sᴛᴀᴛᴜ𝗌 ]────⍟</b>"""
 
-<b>⏳ ʙᴏᴛ ᴜᴘᴛɪᴍᴇ:</b> <code>{}</code>
-
-<b>☣️ ᴄᴘᴜ:</b> <code>{}%</code>
-
-<b>☢️ ʀᴀᴍ:</b> <code>{}%</code>
-
-<b>📊 ғɪʟᴇs sᴀᴠᴇᴅ:</b> <code>{}</code>
-
-<b>👤 ᴜsᴇʀs:</b> <code>{}</code>
-
-<b>👥 ɢʀᴏᴜᴘs:</b> <code>{}</code>
-
-<b>♻️ ᴛᴏᴛᴀʟ:</b> <code>512 MB</code>
-
-<b>🉐 ᴏᴄᴄᴜᴘɪᴇᴅ:</b> <code>{}</code>
-
-<b>🆓 ғʀᴇᴇ:</b> <code>{}</code>
-
-<b>⍟────[ @Imdb_updates ]─────⍟</b>"""
+<b>ʙᴏᴛ ᴜᴘᴛɪᴍᴇ:</b> <code>{}</code>
+<b>ᴄᴘᴜ:</b> <code>{}%</code>
+<b>ʀᴀᴍ:</b> <code>{}%</code>
+<b>ғɪʟᴇs sᴀᴠᴇᴅ:</b> <code>{}</code>
+<b>ᴜsᴇʀs:</b> <code>{}</code>
+<b>ɢʀᴏᴜᴘs:</b> <code>{}</code>
+<b>ᴛᴏᴛᴀʟ:</b> <code>512 MB</code>
+<b>ᴏᴄᴄᴜᴘɪᴇᴅ:</b> <code>{}</code>
+<b>ғʀᴇᴇ:</b> <code>{}</code>
 
     LOG_TEXT_G = """<b>#NewGroup
     
