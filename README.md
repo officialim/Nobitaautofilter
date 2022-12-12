@@ -10,13 +10,6 @@
   <b>IMDB</b>
 </h1>
 
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kdbotz/LUCIFER)
-
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/technicalaks/LUCIFER&branch=koyeb&name=urlshortautofilterbot)
-
-#TG Bot [@mario_files_bot](t.me/mario_files_bot)
-
 # Admin Commands
 - [x] /logs - ᴛᴏ ɢᴇᴛ ᴛʜᴇ ʀᴇᴄᴇɴᴛ ᴇʀʀᴏʀꜱ.
 
@@ -64,3 +57,9 @@
 * [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
 * [![Aks](https://img.shields.io/static/v1?label=Aks&message=Github&color=critical)](https://github.com/technical_aks)
 * [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/Aks_support01_bot)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kdbotz/LUCIFER)
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/technicalaks/LUCIFER&branch=koyeb&name=urlshortautofilterbot)
+
+#TG Bot [@Imdb_movies1_bot](t.me/Imdb_movies1_bot)
