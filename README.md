@@ -51,13 +51,14 @@
 
 - [x] /delg - ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴀ sᴘᴇᴄɪғɪᴄ ɢʟᴏʙᴀʟ ғɪʟᴛᴇʀ
 
-#TG Bot [@Imdb_movies1_bot](t.me/Imdb_movies1_bot)
+## TG Bot [@Imdb_movies1_bot](t.me/Imdb_movies1_bot)
 
 ## Credits 
 * [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
 * [![Aks](https://img.shields.io/static/v1?label=Aks&message=Github&color=critical)](https://github.com/technical_aks)
 * [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/Aks_support01_bot)
 
+## Deploy 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kdbotz/LUCIFER)
 
