@@ -1,10 +1,10 @@
 # Imdb updates
 
 <p align="center">
-  <img src="https://telegra.ph/file/031ac420242d29bc3cf18.jpg" alt="Imdb updates">
+  <img src="https://telegra.ph/file/f5860fcf0d55aed22b847.jpg" alt="Imdb updates">
 </p>
 <h1 align="center">
-  <b>mario</b>
+  <b>IMDB</b>
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Imdb_updates+MOVIE+SEARCH+BOT+!;CREATED+BY+Aks+TEAM!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
