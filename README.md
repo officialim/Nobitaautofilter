@@ -1,8 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Imdb_updates+MOVIE+SEARCH+BOT+!;CREATED+BY+Aks+TEAM!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
 </p>
 
-# Imdb updates
-
 <p align="center">
   <img src="https://telegra.ph/file/f5860fcf0d55aed22b847.jpg" alt="Imdb updates">
 </p>
