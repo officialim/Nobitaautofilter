@@ -1,3 +1,6 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Imdb_updates+MOVIE+SEARCH+BOT+!;CREATED+BY+Aks+TEAM!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
+</p>
+
 # Imdb updates
 
 <p align="center">
@@ -7,8 +10,6 @@
   <b>IMDB</b>
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Imdb_updates+MOVIE+SEARCH+BOT+!;CREATED+BY+Aks+TEAM!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
-</p>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kdbotz/LUCIFER)
 
