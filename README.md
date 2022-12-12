@@ -61,8 +61,8 @@
 
 ## Credits 
 * [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
-* [![Kunal](https://img.shields.io/static/v1?label=Kunal&message=Github&color=critical)](https://github.com/kdbotz)
-* [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/x_kunal_01)
+* [![Aks](https://img.shields.io/static/v1?label=Aks&message=Github&color=critical)](https://github.com/technical_aks)
+* [![Contact](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/Aks_support01_bot)
 
 ## Thanks to 
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
