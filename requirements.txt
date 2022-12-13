@@ -10,4 +10,3 @@ imdbpy==2021.4.18
 psutil
 aiohttp
 pytz
-telegraph==2.2.0
