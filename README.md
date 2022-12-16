@@ -8,7 +8,7 @@
   <b>IMDB</b>
 </h1>
 
-# Admin Commands
+<b># Admin Commands
 - [x] /logs - ᴛᴏ ɢᴇᴛ ᴛʜᴇ ʀᴇᴄᴇɴᴛ ᴇʀʀᴏʀꜱ.
 
 - [x] /stats - ᴛᴏ ɢᴇᴛ ꜱᴛᴀᴛᴜꜱ ᴏꜰ ꜰɪʟᴇꜱ ɪɴ ᴅʙ.
@@ -62,5 +62,4 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kdbotz/LUCIFER)
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/technicalaks/LUCIFER&branch=koyeb&name=urlshortautofilterbot)
-
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/technicalaks/LUCIFER&branch=koyeb&name=urlshortautofilterbot)</b>
