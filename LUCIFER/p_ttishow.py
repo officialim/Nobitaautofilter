@@ -43,13 +43,13 @@ async def save_group(bot, message):
             await bot.leave_chat(message.chat.id)
             return
         buttons = [[
-                    InlineKeyboardButton('📣 Uᴘᴅᴀᴛᴇs', url=CHNL_LNK),
-                    InlineKeyboardButton('❓ Hᴇʟᴘ', url=f"https://t.me/{temp.U_NAME}?start=help")
+                    InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇs', url=CHNL_LNK),
+                    InlineKeyboardButton('ʀᴇᴘᴏʀᴛ ʜᴇʀᴇ', url=f"https://t.me/Aks_support01_bot")
                   ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_photo(
             photo=NEWGRP,
-            caption=f"<b>Tʜᴀɴᴋ Yᴏᴜ Fᴏʀ Aᴅᴅɪɴɢ Mᴇ Iɴ {message.chat.title} ❣️\n\n➪ Dᴏɴ'ᴛ Fᴏʀɢᴇᴛ Tᴏ Mᴀᴋᴇ Mᴇ Aᴅᴍɪɴ ⚠️\n➪ Iғ Yᴏᴜ Hᴀᴠᴇ Aɴʏ Dᴏᴜʙᴛ Yᴏᴜ Cʟᴇᴀʀ Iᴛ Usɪɴɢ Bᴇʟᴏᴡ Bᴜᴛᴛᴏɴs</b>",
+            caption=f"ᴛʜᴀɴᴋs ᴛᴏ ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ. {message.chat.title} ❣️\n\nɪs ᴀɴʏ ᴅᴏᴜʙᴛs ᴀʙᴏᴜᴛ ᴜsɪɴɢ ᴍᴇ ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ 👇",
             reply_markup=reply_markup)
     else:
         settings = await get_settings(message.chat.id)
