@@ -117,15 +117,15 @@ class script(object):
 
     ADMIN_STATUS_TXT = """<b>⍟────[ ʙᴏᴛ sᴛᴀᴛᴜ𝗌 ]────⍟</b>
 
-<b>⏳ ʙᴏᴛ ᴜᴘᴛɪᴍᴇ:</b> <code>{}</code>
-<b>☣️ ᴄᴘᴜ:</b> <code>{}%</code>
-<b>☢️ ʀᴀᴍ:</b> <code>{}%</code>
-<b>📊 ғɪʟᴇs sᴀᴠᴇᴅ:</b> <code>{}</code>
-<b>👤 ᴜsᴇʀs:</b> <code>{}</code>
-<b>👥 ɢʀᴏᴜᴘs:</b> <code>{}</code>
-<b>♻️ ᴛᴏᴛᴀʟ:</b> <code>512 MB</code>
-<b>🉐 ᴏᴄᴄᴜᴘɪᴇᴅ:</b> <code>{}</code>
-<b>🆓 ғʀᴇᴇ:</b> <code>{}</code>
+🥱 ʙᴏᴛ ᴜᴘᴛɪᴍᴇ:-  <code>{}</code>
+📠 ᴄᴘᴜ:-  <code>{}%</code>
+💾 ʀᴀᴍ:-  <code>{}%</code>
+📂 ꜰɪʟᴇs sᴀᴠᴇᴅ:-  <code>{}</code>
+🤝 ᴜsᴇʀs:-  <code>{}</code>
+🫂 ɢʀᴏᴜᴘs:-  <code>{}</code>
+✍ ᴛᴏᴛᴀʟ:-  <code>512 MB</code>
+⚖ ᴏᴄᴄᴜᴘɪᴇᴅ:-  <code>{}</code>
+💡 ꜰʀᴇᴇ:-  <code>{}</code>
 
 <b>⍟────[ @Imdb_updates ]─────⍟</b>"""
 
