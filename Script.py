@@ -192,7 +192,7 @@ Pʟᴇᴀsᴇ Cʜᴇᴄᴋ Yᴏᴜʀ Sᴘᴇʟʟɪɴɢ 🤧</b>
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ:- Ayush
+ꜰᴜʟʟ ɴᴀᴍᴇ:- Ayush
 ᴜsᴇʀɴᴀᴍᴇ:- @technicalaks123
 ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ:- <a href='https://t.me/technicalaks123'>Ayush </a></b>
 """
