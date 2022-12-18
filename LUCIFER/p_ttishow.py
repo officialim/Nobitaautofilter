@@ -56,7 +56,7 @@ async def save_group(bot, message):
         if settings["welcome"]:
             for u in message.new_chat_members:
                 buttons = [[
-                InlineKeyboardButton("ʀᴇᴀᴅ ɢʀᴏᴜᴘ ʀᴜʟᴇs 📌", url="https://telegra.ph/How-to-get-movies--series-from-Bot-11-27")
+                InlineKeyboardButton("❌ ʀᴇᴀᴅ ɢʀᴏᴜᴘ ʀᴜʟᴇs ⁉️", url="http://t.me/MissRose_bot?start=rules_-1001500645086")
             ]]
                 if (temp.MELCOW).get('welcome') is not None:
                     try:
@@ -65,7 +65,7 @@ async def save_group(bot, message):
                         pass
                 temp.MELCOW['welcome'] = await message.reply_photo(
                 photo="https://telegra.ph/file/5cad86087b1bcd176f370.jpg",
-                caption=f"<b>🔖 ʜᴇʟʟᴏ ᴍʏ ғʀɪᴇɴᴅ {u.mention},</b>\n<b>ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ {message.chat.title} !</b>\n\n<b>ʀᴇᴀᴅ ɢʀᴏᴜᴘ ʀᴜʟᴇs ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ...</b>",
+                caption=f"🔖 ʜᴇʟʟᴏ ᴍʏ ғʀɪᴇɴᴅ {u.mention},\nᴡᴇʟᴄᴏᴍᴇ ᴛᴏ {message.chat.title} !\n\n ʀᴇᴀᴅ ɢʀᴏᴜᴘ ʀᴜʟᴇs ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ...",
                 reply_markup=InlineKeyboardMarkup(buttons))
                 await asyncio.sleep(60)
                 await temp.MELCOW['welcome'].delete()
@@ -86,7 +86,7 @@ async def leave_a_chat(bot, message):
         reply_markup=InlineKeyboardMarkup(buttons)
         await bot.send_message(
             chat_id=chat,
-            text='<b>Hᴇʟʟᴏ Fʀɪᴇɴᴅs,\n\nMʏ Aᴅᴍɪɴs Hᴀs Tᴏʟᴅ Mᴇ Tᴏ Lᴇᴀᴠᴇ Fʀᴏᴍ Gʀᴏᴜᴘ Sᴏ I Gᴏ! Iғ Yᴏᴜ Wᴀɴɴᴀ Aᴅᴅ Mᴇ Aɢᴀɪɴ Cᴏɴᴛᴀᴄᴛ Mʏ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ.</b>',
+            text='Hᴇʟʟᴏ Fʀɪᴇɴᴅs,\n\nMʏ Aᴅᴍɪɴs Hᴀs Tᴏʟᴅ Mᴇ Tᴏ Lᴇᴀᴠᴇ Fʀᴏᴍ Gʀᴏᴜᴘ Sᴏ I Gᴏ! Iғ Yᴏᴜ Wᴀɴɴᴀ Aᴅᴅ Mᴇ Aɢᴀɪɴ Cᴏɴᴛᴀᴄᴛ Mʏ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ.',
             reply_markup=reply_markup,
         )
 
