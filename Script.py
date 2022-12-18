@@ -9,8 +9,7 @@ class script(object):
 
 ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ꜰᴏʀ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs…</b>"""
 
-    ABOUT_TXT = """<b>✯ ɪ ᴀᴍ:- {}</b>
-
+    ABOUT_TXT = """✯ ɪ ᴀᴍ:- {}
 ✯ ᴄʀᴇᴀᴛᴏʀ:- <a href=https://t.me/Aks_support01_bot>ᴀʏᴜsʜ</a>
 ✯ ᴍʏ ɴᴀᴍᴇ:- ᴀʏᴜsʜ ᴋᴜᴍᴀʀ
 ✯ ᴜᴘᴅᴀᴛᴇs:- <a href=https://t.me/Imdb_updates>ɪᴍᴅʙ_ᴜᴘᴅᴀᴛᴇs</a>
