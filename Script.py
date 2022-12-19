@@ -83,30 +83,30 @@ class script(object):
 • /connections - <code>ʟɪꜱᴛ ᴀʟʟ ʏᴏᴜʀ ᴄᴏɴɴᴇᴄᴛɪᴏɴꜱ</code>"""
 
     ADMIN_TXT = """
-<code>Tʜɪs Mᴏᴅᴜʟᴇ Oɴʟʏ Wᴏʀᴋs Fᴏʀ Mʏ Aᴅᴍɪɴs</code>
+<code>⁉️ ᴛʜɪs ᴍᴏᴅᴜʟᴇ ᴏɴʟʏ ᴡᴏʀᴋ ꜰᴏʀ ᴛʜɪs ʙᴏᴛ ᴀᴅᴍɪɴ ɴᴏᴛ ᴜsᴇʀs ❗️</code>
 
-• /logs - <code>ᴛᴏ ɢᴇᴛ ᴛʜᴇ ʀᴇᴄᴇɴᴛ ᴇʀʀᴏʀꜱ</code>
-• /stats - <code>ᴛᴏ ɢᴇᴛ ꜱᴛᴀᴛᴜꜱ ᴏꜰ ꜰɪʟᴇꜱ ɪɴ ᴅʙ.</code>
-• /delete - <code>ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ꜰɪʟᴇ ꜰʀᴏᴍ ᴅʙ.</code>
-• /deleteall - <code>ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴀʟʟ ꜰɪʟᴇs ꜰʀᴏᴍ ᴅʙ.</code>
-• /users - <code>ᴛᴏ ɢᴇᴛ ʟɪꜱᴛ ᴏꜰ ᴍʏ ᴜꜱᴇʀꜱ ᴀɴᴅ ɪᴅꜱ.</code>
-• /chats - <code>ᴛᴏ ɢᴇᴛ ʟɪꜱᴛ ᴏꜰ ᴍʏ ᴄʜᴀᴛꜱ ᴀɴᴅ ɪᴅꜱ</code>
-• /channel - <code>ᴛᴏ ɢᴇᴛ ʟɪꜱᴛ ᴏꜰ ᴛᴏᴛᴀʟ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴄʜᴀɴɴᴇʟꜱ</code>
-• /setskip - <code>Tᴏ sᴋɪᴘ ɴᴜᴍʙᴇʀ ᴏғ ᴍᴇssᴀɢᴇs ᴡʜᴇɴ ɪɴᴅᴇxɪɴɢ ғɪʟᴇs.</code>
-• /leave  - <code>ᴛᴏ ʟᴇᴀᴠᴇ ꜰʀᴏᴍ ᴀ ᴄʜᴀᴛ.</code>
-• /disable  -  <code>ᴛᴏ ᴅɪꜱᴀʙʟᴇ ᴀ ᴄʜᴀᴛ.</code>
-• /invite - <code>Tᴏ ɢᴇᴛ ᴛʜᴇ ɪɴᴠɪᴛᴇ ʟɪɴᴋ ᴏғ ᴀɴʏ ᴄʜᴀᴛ ᴡʜᴇʀᴇ ᴛʜᴇ ʙᴏᴛ ɪs ᴀᴅᴍɪɴ.</code>
-• /ban_user  - <code>ᴛᴏ ʙᴀɴ ᴀ ᴜꜱᴇʀ.</code>
-• /unban_user  - <code>ᴛᴏ ᴜɴʙᴀɴ ᴀ ᴜꜱᴇʀ.</code>
-• /restart - <code>Tᴏ Rᴇsᴛᴀʀᴛ ᴀ Bᴏᴛ</code>
-• /usend - <code>Tᴏ Sᴇɴᴅ ᴀ Mᴇssɢᴀᴇ ᴛᴏ Pᴇʀᴛɪᴄᴜʟᴀʀ Usᴇʀ</code>
-• /gsend - <code>Tᴏ Sᴇɴᴅ ᴀ Mᴇssᴀɢᴇ ᴛᴏ Pᴇʀᴛɪᴄᴜʟᴀʀ Cʜᴀᴛ</code>
-• /broadcast - <code>ᴛᴏ ʙʀᴏᴀᴅᴄᴀꜱᴛ ᴀ ᴍᴇꜱꜱᴀɢᴇ ᴛᴏ ᴀʟʟ ᴜꜱᴇʀꜱ</code>
-• /group_broadcast - <code>ᴛᴏ ʙʀᴏᴀᴅᴄᴀsᴛ ᴀ ᴍᴇssᴀɢᴇ ᴛᴏ ᴀʟʟ ᴄᴏɴɴᴇᴄᴛᴇᴅ ɢʀᴏᴜᴘs</code>
-• /status - <code>ᴛᴏ ɢᴇᴛ sᴛᴀᴛᴜs ᴏғ sᴇʀᴠᴇʀ</code>
-• /gfilter - <code>ᴛᴏ ᴀᴅᴅ ɢʟᴏʙᴀʟ ғɪʟᴛᴇʀs</code>
-• /gfilters - <code>ᴛᴏ ᴠɪᴇᴡ ʟɪsᴛ ᴏғ ᴀʟʟ ɢʟᴏʙᴀʟ ғɪʟᴛᴇʀs<code>
-• /delg - <code>ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴀ sᴘᴇᴄɪғɪᴄ ɢʟᴏʙᴀʟ ғɪʟᴛᴇʀ</code>"""
+• /logs - <code>ᴛᴏ ɢᴇᴛ ʀᴇᴄᴇɴᴛ ᴇʀʀᴏʀs</code>
+• /stats - <code>ᴛᴏ ɢᴇᴛ sᴛᴀᴛᴜs ᴏꜰ ꜰɪʟᴇ ɪɴ ᴅʙ</code>
+• /delete - <code>ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴀ sᴘᴇᴄɪꜰɪᴄ ꜰɪʟᴇ ꜰᴏʀᴍ ᴅʙ</code>
+• /deleteall - <code>ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴀʟʟ ꜰɪʟᴇs ꜰʀᴏᴍ ᴅʙ</code>
+• /users - <code>ᴛᴏ ɢᴇᴛ ʟɪsᴛ ᴏꜰ ᴍʏ ᴜsᴇʀs ᴀɴᴅ ɪᴅs</code>
+• /chats - <code>ᴛᴏ ɢᴇᴛ ʟɪsᴛ ᴏꜰ ᴍʏ ᴄʜᴀᴛs ᴀɴᴅ ɪᴅs</code>
+• /channel - <code>ᴛᴏ ɢᴇᴛ ʟɪsᴛ ᴏꜰ ᴛᴏᴛᴀʟ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴄʜᴀɴɴᴇʟs</code>
+• /setskip - <code>ᴛᴏ sᴋɪᴘ ɴᴜᴍʙᴇʀ ᴏꜰ ᴍsɢ ᴡʜᴇɴ ɪɴᴅᴇxɪɴɢ ꜰɪʟᴇs</code>
+• /leave  - <code>ᴛᴏ ʟᴇᴀᴠᴇ ꜰʀᴏᴍ ᴀ ᴄʜᴀᴛ</code>
+• /disable  -  <code>ᴛᴏ ᴅɪsᴀʙʟᴇ ᴀ ᴄʜᴀᴛ</code>
+• /invite - <code>ᴛᴏ ɢᴇᴛ ᴛʜᴇ ɪɴᴠɪᴛᴇ ʟɪɴᴋ ᴏꜰ ᴀɴʏ ᴄʜᴀᴛ ᴡʜᴇʀᴇ ᴛʜᴇ ʙᴏᴛ ɪs ᴀᴅᴍɪɴ</code>
+• /ban_user  - <code>ᴛᴏ ʙᴀɴ ᴀ ᴜsᴇʀs</code>
+• /unban_user  - <code>ᴛᴏ ᴜɴʙᴀɴ ᴀ ᴜsᴇʀs</code>
+• /restart - <code>ᴛᴏ ʀᴇsᴛᴀʀᴛ ᴀ ʙᴏᴛ</code>
+• /usend - <code>ᴛᴏ sᴇɴᴅ ᴀ ᴍsɢ ᴛᴏ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴜsᴇʀs</code>
+• /gsend - <code>ᴛᴏ sᴇɴᴅ ᴀ ᴍsɢ ᴛᴏ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴄʜᴀᴛ</code>
+• /broadcast - <code>ᴛᴏ ʙʀᴏᴀᴅᴄᴀsᴛ ᴀ ᴍsɢ ᴛᴏ ᴀʟʟ ᴜsᴇʀs</code>
+• /group_broadcast - <code>ᴛᴏ ʙʀᴏᴀᴅᴄᴀsᴛ ᴀ ᴍsɢ ᴛᴏ ᴀʟʟ ᴄᴏɴɴᴇᴄᴛᴇᴅ ɢʀᴏᴜᴘs</code>
+• /status - <code>ᴛᴏ ɢᴇᴛ sᴛᴀᴛᴜs ᴏꜰ sᴇʀᴠᴇʀ</code>
+• /gfilter - <code>ᴛᴏ ᴀᴅᴅ ɢʟᴏʙᴀʟ ꜰɪʟᴛᴇʀs</code>
+• /gfilters - <code>ᴛᴏ ᴠɪᴇᴡ ʟɪsᴛ ᴏꜰ ᴀʟʟ ɢʟᴏʙᴀʟ ꜰɪʟᴛᴇʀs<code>
+• /delg - <code>ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴀ sᴘᴇᴄɪꜰɪᴄ ɢʟᴏʙᴀʟ ꜰɪʟᴛᴇʀ</code>"""
 
     STATUS_TXT = """<b>📂 ғɪʟᴇs sᴀᴠᴇᴅ:</b> <code>{}</code>
 <b>👤 ᴜsᴇʀs:</b> <code>{}</code>
@@ -182,11 +182,11 @@ Pʟᴇᴀsᴇ Cʜᴇᴄᴋ Yᴏᴜʀ Sᴘᴇʟʟɪɴɢ 🤧</b>
 """
     
     OWNER_INFO = """
-<b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
+⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-ꜰᴜʟʟ ɴᴀᴍᴇ:- Ayush
+ꜰᴜʟʟ ɴᴀᴍᴇ:- ᴀʏᴜsʜ
 ᴜsᴇʀɴᴀᴍᴇ:- @technicalaks123
-ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ:- <a href='https://t.me/technicalaks123'>Ayush </a></b>
+ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ:- <a href='https://t.me/technicalaks123'>ᴀʏᴜsʜ </a>
 """
 
     KD_IMDB = """
