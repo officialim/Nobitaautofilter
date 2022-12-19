@@ -129,13 +129,16 @@ class script(object):
 
 <b>⍟────[ @Imdb_updates ]─────⍟</b>"""
 
-    LOG_TEXT_G = """#𝐍𝐞𝐰𝐆𝐫𝐨𝐮𝐩
-    
+    LOG_TEXT_G = """#NewUser
 <b>᚛› 𝐆𝐫𝐨𝐮𝐩 ⪼ {a}(<code>{b}</code>)</b>
 <b>᚛› 𝐆 𝐈𝐃 ⪼ @{c}
 <b>᚛› 𝐓𝐨𝐭𝐚𝐥 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 ⪼ {d}</b>
 <b>᚛› 𝐀𝐝𝐝𝐞𝐝 𝐁𝐲 ⪼ {e}</b>
+By {f}
 """
+
+
+
     LOG_TEXT_P = """#ɴᴇᴡᴜsᴇʀ ɪᴍᴅʙ ʙᴏᴛ
     
 ɪᴅ:- <code>{}</code>
