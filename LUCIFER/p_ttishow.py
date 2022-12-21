@@ -66,10 +66,9 @@ async def save_group(bot, message):
                 temp.MELCOW['welcome'] = await message.reply_photo(
                 photo="https://telegra.ph/file/5cad86087b1bcd176f370.jpg",
                 caption=f"🔖 ʜᴇʟʟᴏ ᴍʏ ғʀɪᴇɴᴅ {u.mention},\nᴡᴇʟᴄᴏᴍᴇ ᴛᴏ {message.chat.title} !\n\n ʀᴇᴀᴅ ɢʀᴏᴜᴘ ʀᴜʟᴇs ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ...",
-
-reply_markup=InlineKeyboardMarkup(buttons))
-                 await asyncio.sleep(60)
-                 await temp.MELCOW['welcome'].delete()
+                reply_markup=InlineKeyboardMarkup(buttons))
+                await asyncio.sleep(60)
+                await temp.MELCOW['welcome'].delete()
 
  @Client.on_message(filters.command('leave') & filters.user(ADMINS))
  async def leave_a_chat(bot, message):
