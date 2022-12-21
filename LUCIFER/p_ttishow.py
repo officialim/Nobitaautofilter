@@ -70,7 +70,7 @@ async def save_group(bot, message):
                 await asyncio.sleep(60)
                 await temp.MELCOW['welcome'].delete()
 
- @Client.on_message(filters.command('leave') & filters.user(ADMINS))
+@Client.on_message(filters.command('leave') & filters.user(ADMINS))
  async def leave_a_chat(bot, message):
      if len(message.command) == 1:
          return await message.reply('Give me a chat id')
