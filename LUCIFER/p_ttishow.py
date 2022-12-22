@@ -9,7 +9,7 @@ from pyrogram.errors.exceptions.bad_request_400 import MessageTooLong, PeerIdInv
 from info import ADMINS, LOG_CHANNEL, SUPPORT_CHAT, MELCOW_NEW_USERS, CHNL_LNK, GRP_LNK, NEWGRP
 from database.users_chats_db import db
 from database.ia_filterdb import Media
-from utils import get_size, temp, get_settings, get_readable_time
+from utils import get_size, temp, get_settings
 from Script import script
 from pyrogram.errors import ChatAdminRequired
 
@@ -160,8 +160,6 @@ async def get_ststs(bot, message):
     reply_markup = InlineKeyboardMarkup(buttons)
     kdbotz = await message.reply('Fetching stats..')
     now = datetime.now()
-    delta = now - bot.uptime
-    uptime = get_readable_time(delta.seconds)
     ram = psutil.virtual_memory().percent
     cpu = psutil.cpu_percent()
     total_users = await db.total_users_count()
@@ -172,7 +170,7 @@ async def get_ststs(bot, message):
     size = get_size(size)
     free = get_size(free)
     await kdbotz.edit_text(
-            text=script.ADMIN_STATUS_TXT.format(uptime, ram, cpu, files, total_users, totl_chats, size, free),
+            text=script.ADMIN_STATUS_TXT.format(ram, cpu, files, total_users, totl_chats, size, free),
             disable_web_page_preview=True,
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
