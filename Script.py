@@ -117,7 +117,6 @@ class script(object):
 
     ADMIN_STATUS_TXT = """<b>⍟────[ ʙᴏᴛ sᴛᴀᴛᴜ𝗌 ]────⍟</b>
 
-🥱 ʙᴏᴛ ᴜᴘᴛɪᴍᴇ:-  <code>{}</code>
 📠 ᴄᴘᴜ:-  <code>{}%</code>
 💾 ʀᴀᴍ:-  <code>{}%</code>
 📂 ꜰɪʟᴇs sᴀᴠᴇᴅ:-  <code>{}</code>
