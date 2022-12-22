@@ -42,8 +42,8 @@ async def save_group(bot, message):
             await bot.leave_chat(message.chat.id)
             return
         buttons = [[
-                    InlineKeyboardButton('📣 Uᴘᴅᴀᴛᴇs', url=CHNL_LNK),
-                    InlineKeyboardButton('❓ Hᴇʟᴘ', url=f"https://t.me/{temp.U_NAME}?start=help")
+                    InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url=CHNL_LNK),
+                    InlineKeyboardButton('Hᴇʟᴘ', url=f"https://t.me/{temp.U_NAME}?start=help")
                   ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -55,7 +55,7 @@ async def save_group(bot, message):
         if settings["welcome"]:
             for u in message.new_chat_members:
                 buttons = [[
-                InlineKeyboardButton("ʀᴇᴀᴅ ɢʀᴏᴜᴘ ʀᴜʟᴇs 📌", url="https://telegra.ph/How-to-get-movies--series-from-KD-Bot-05-17")
+                InlineKeyboardButton("❌ ʀᴇᴀᴅ ɢʀᴏᴜᴘ ʀᴜʟᴇs ⁉️", url="http://t.me/MissRose_bot?start=rules_-1001500645086")
             ]]
                 if (temp.MELCOW).get('welcome') is not None:
                     try:
