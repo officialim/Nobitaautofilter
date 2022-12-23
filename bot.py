@@ -9,7 +9,7 @@ from LUCIFER import web_server
 logging.config.fileConfig('logging.conf')
 logging.getLogger().setLevel(logging.INFO)
 logging.getLogger("pyrogram").setLevel(logging.ERROR)
-logging.getLogger("imdbpy").setLevel(logging.ERROR)
+logging.getLogger("cinemagoer").setLevel(logging.ERROR)
 
 from pyrogram.errors import BadRequest, Unauthorized
 from datetime import datetime
