@@ -64,7 +64,7 @@ async def save_group(bot, message):
                         pass
                 temp.MELCOW['welcome'] = await message.reply_photo(
                 photo="https://telegra.ph/file/0543321561e9349f36bce.jpg",
-                caption=f"😈 ʜᴇʏ {u.mention}\n\n📿 ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴏᴜʀ ɢʀᴏᴜᴘ{message.chat.title}!\n\n🚬 ᴛʜɪs ɪs ᴀ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ\n\n⏳ ᴀʟʟ ᴄᴀᴛᴇɢᴏʀɪᴇs ᴏꜰ ᴍᴏᴠɪᴇs ᴀᴠᴀɪʟᴀʙʟᴇ ʜᴇʀᴇ\n\n🧨 ᴊᴜsᴛ ᴛʏᴘᴇ ᴛʜᴇ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ\n\n🤖 ʙᴏᴛ ᴡɪʟʟ sᴇɴᴅ ʏᴏᴜʀ ᴍᴏᴠɪᴇ\n\n👇🏻 ᴘʟᴇᴀsᴇ ʀᴇᴀᴅ ɢʀᴏᴜᴘ ʀᴜʟᴇs 👇🏻",
+                caption=f"😈 ʜᴇʏ {u.mention}\n\n📿 ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴏᴜʀ ɢʀᴏᴜᴘ {message.chat.title}!\n\n🚬 ᴛʜɪs ɪs ᴀ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ\n\n⏳ ᴀʟʟ ᴄᴀᴛᴇɢᴏʀɪᴇs ᴏꜰ ᴍᴏᴠɪᴇs ᴀᴠᴀɪʟᴀʙʟᴇ ʜᴇʀᴇ\n\n🧨 ᴊᴜsᴛ ᴛʏᴘᴇ ᴛʜᴇ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ\n\n🤖 ʙᴏᴛ ᴡɪʟʟ sᴇɴᴅ ʏᴏᴜʀ ᴍᴏᴠɪᴇ\n\n👇🏻 ᴘʟᴇᴀsᴇ ʀᴇᴀᴅ ɢʀᴏᴜᴘ ʀᴜʟᴇs 👇🏻",
                 reply_markup=InlineKeyboardMarkup(buttons))
                 await asyncio.sleep(60)
                 await temp.MELCOW['welcome'].delete()
